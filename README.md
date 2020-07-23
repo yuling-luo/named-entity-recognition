@@ -1,4 +1,4 @@
-# named-entity-recognition-conll2003
+# named-entity-recognition
 Implemented a Bidirectional LSTM-CRF model with attention approach for name entity recognition
 
 ## Dataset
